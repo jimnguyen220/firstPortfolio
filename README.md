@@ -2,9 +2,8 @@
 
 For this project, I am going to use Bootstrap CSS Framework to create a portfolio. 
 
-Link to live internet Home Page - https://jimnguyen220.github.io/responsivePortfolio/
+Link to live internet Home Page - https://jimnguyen220.github.io/firstPortfolio/
 
-Link to repository - https://github.com/jimnguyen220/responsivePortfolio
 
 Resources - https://getbootstrap.com/   
 
